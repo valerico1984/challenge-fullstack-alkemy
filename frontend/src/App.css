@@ -1,0 +1,92 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #457e93;
+    color: white
+    
+}
+
+h1{
+    text-align: center;
+    color: black
+
+}
+
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.login{
+    margin: auto;
+    padding: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    border-bottom: 2px solid black
+       
+}
+
+.submit_login{
+
+width: 200px;
+margin: 30px
+
+}
+
+
+.form_style{
+
+    margin:auto;
+    padding:auto;
+    vertical-align: center;
+    justify-content: center;
+    width: 650px;
+    height: auto;
+
+}
+
+.buttons{
+display: flex;
+padding-top: 2rem;
+justify-content: space-between;
+
+}
+
+.main{
+    text-align: center;
+    padding: 2rem;
+    justify-content: center;
+}
+
+.list{
+    margin-top: 2rem;
+    padding: auto;
+    justify-content: center;
+    width:100vh;
+    height: auto;
+}
+
+.error{
+    color: red;
+    margin-top: 1rem;
+    font-size: 20px;
+}
+
+.empty{
+    margin-top: 2rem;
+    padding: auto;
+    width:100vw;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    vertical-align: center;
+ 
+}
+
+.svg{
+    color: white
+}
